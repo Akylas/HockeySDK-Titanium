@@ -1,0 +1,8 @@
+#appname:HockeyAppTweets
+#publisher:Thomas Dohmke
+#url:http://hockeyapp.net
+#image:appicon.png
+#appid:net.hockeyapp.tweets
+#desc:Shows all tweets of the HockeyApp Twitter account.
+#type:mobile
+#guid:d797860d-cfe5-4772-8a1c-a6d87a847c3c

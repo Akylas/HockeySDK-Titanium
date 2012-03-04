@@ -1,0 +1,12 @@
+# Java
+bin
+build
+build.log
+target
+
+# Project Noise
+Temp
+
+# OS X Noise
+.DS_Store
+*.swp
